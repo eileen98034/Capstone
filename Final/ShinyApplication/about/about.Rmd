@@ -1,0 +1,23 @@
+---
+title: "Coursera Johns Hopkins Swiftkey Data Science Capstone - About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+#### This application was developed using:
+
++ [The R Project for Statistical Computing](https://www.r-project.org/)
+
++ [RStudio](https://www.rstudio.com/)
+
++ [Shiny](https://shiny.rstudio.com/reference/shiny/)
+
+#### This application was developed by:
+
++ [E.Manton](https://www.linkedin.com/in/emanton/)
+

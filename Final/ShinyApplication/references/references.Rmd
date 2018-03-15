@@ -1,0 +1,56 @@
+---
+title: "Coursera Johns Hopkins Swiftkey Data Science Capstone: Technical References"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+The **Coursera Johns Hopkins Swiftkey Data Science Capston**e Project draws information from basically two bodies of thought:
+
+1. Text Mininig
+2. Natural Language Processing
+
+Below we will cite sources used in this project.
+
+## Text Mining
+
+[Linguimatics](https://www.linguamatics.com/) defines text mining as follows:
+
+*...text mining, is the process of examining large collections of written resources to generate new information, and to transform the unstructured text into structured data for use in further analysis. Text mining identifies facts, relationships and assertions that would otherwise remain buried in the mass of textual big data.  These facts are extracted and turned into structured data, for analysis, visualization (e.g. via html tables, mind maps, charts), integration with structured data in databases or warehouses, and further refinement using machine learning (ML) systems.*
+
+Here is a list of other text mining resources used:
+
++ [Wikipedia: Text Mining](https://en.wikipedia.org/wiki/Text_mining)
+
++ [Coursera: Text Mining and Analytics Course](https://www.coursera.org/learn/text-mining)
+
++ [statsoft.com: Text Mining](http://www.statsoft.com/Textbook/Text-Mining)
+
+## Natural Language Processing
+
+[SAS](https://www.sas.com/) defines Natural Language Processing as follows:
+
+
+*Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, in its pursuit to fill the gap between human communication and computer understanding.***
+
+Here is a list of other natural language processing resources used: 
+
++ [Wikipedia: Natural Language Processing](https://en.wikipedia.org/wiki/Natural-language_processing)
+
++ [Algorithmia: Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
+
++ [Machine Learning Mastery: Natural Language Processing](https://machinelearningmastery.com/natural-language-processing/)
+
+
+
+
+
+
+
+
+
+
